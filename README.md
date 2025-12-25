@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated junior software engineer with a strong foundation in full-stack development. Passionate about creating efficient, scalable solutions and continuously learning new technologies. Seeking an opportunity to contribute to innovative projects and grow as a developer.
+I’m a Junior Programmer with over 1 year of experience in developing and maintaining web applications. I work with modern technologies and focus on writing clean, efficient, and reliable code. I’m passionate about learning, improving, and creating software that delivers real value to users.
 
 
 ## 🌐 Socials:
